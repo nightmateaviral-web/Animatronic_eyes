@@ -13,10 +13,8 @@ Original model:
 
 Modifications and additional development completed in this project include:
 
-* Servo integration and tuning
-* Joystick-based eye movement
-* Eyelid actuation system
-* Raspberry Pi face tracking integration
-* Mechanical debugging and optimization
-* Embedded control programming
-
+* Independent eye movement
+* Servo-controlled eyelids
+* Joystick-based control
+* Raspberry Pi face tracking
+* Real-time motion system
