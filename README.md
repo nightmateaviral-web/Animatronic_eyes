@@ -4,15 +4,15 @@ A 3D-printed animatronic eye system combining mechanical design, servo actuation
 
 The project uses an open-source eye mechanism as a foundation and extends it with custom electronics, control software, and Raspberry Pi integration.
 
-## Features
+##Features
 
-- Independent horizontal and vertical eye movement
+- Independent horizontal eye movement
 - Servo-controlled blinking eyelids
 - Analog joystick control
-- Raspberry Pi integration
-- harcascade xml based face tracking
+- Raspberry Pi face tracking prototype
 - Real-time servo actuation
-- Modular mechanical design for future upgrades
+- Modular design for future upgrades
+
 
 ## Hardware
 
