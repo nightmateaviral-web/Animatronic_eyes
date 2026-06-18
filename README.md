@@ -1,4 +1,4 @@
-# Animatronic Eyes 
+# Animatronic Eyes V1
 
 An animatronic robotic eye system based on an open-source 3D eye mechanism, extended with custom servo control, joystick movement, eyelid actuation, and Raspberry Pi face tracking.
 
